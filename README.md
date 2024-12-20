@@ -1,4 +1,4 @@
-# Violate Software
+# Viva Software
 
 Yenilikçi teknoloji çözümleri ve yazılım geliştirme hizmetleri sunan profesyonel bir teknoloji şirketiyiz.
 
